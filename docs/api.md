@@ -11,3 +11,10 @@ POST /api/notes
   "title": "Meeting Notes",
   "content": "Discuss backend architecture"
 }
+
+### Error Response
+
+```json
+{
+  "error": "Unauthorized access"
+}
