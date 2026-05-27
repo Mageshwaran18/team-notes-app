@@ -16,5 +16,5 @@ POST /api/notes
 
 ```json
 {
-  "error": "Unauthorized access"
+  "error": "Unauthorized access. Access can't be granted"
 }
