@@ -9,7 +9,7 @@ POST /api/notes
 ```json
 {
   "title": "Meeting Notes",
-  "content": "Discuss backend architecture"
+  "content": "Discuss backend architecture along with high level system design"
 }
 
 ### Error Response
